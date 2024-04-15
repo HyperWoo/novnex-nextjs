@@ -158,7 +158,7 @@ const ContactForm = ( { subtitleOffset } ) => {
                 </div>
                 <div className="col-lg-12">
 
-                    <button type="submit" className="mil-button mil-up">Send Now</button>
+                    <button type="submit" className="mil-button mil-sm">Send Now</button>
 
                 </div>
             </div>

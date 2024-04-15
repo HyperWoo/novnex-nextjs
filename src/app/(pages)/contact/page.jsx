@@ -17,7 +17,7 @@ export const metadata = {
 const Contact = () => {
   return (
     <>
-        <PageBanner pageTitle={"We’d love to talk"} breadTitle={"Contact"} bgImage={"/img/photo/12.jpg"} />
+        <PageBanner pageTitle={"We’d love to talk"} breadTitle={"Contact"} bgImage={"/img/photo/12.1.jpg"} />
 
         {/* about */}
         <section>
@@ -37,15 +37,13 @@ const Contact = () => {
 
                         <div className="mil-contact-sidebar">
 
-                            <img src="img/photo/2.jpg" alt="img" style={{"width": "100%", "height": "200px", "objectFit": "cover", "objectPosition": "0 -60px"}} className="mil-mb-30" />
-
                             <div className="mil-sidebar-info">
 
                                 <h6 className="mil-upper mil-up mil-mb-30">Headquarters</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>USA</li>
-                                    <li>New York - 1800 Wazee Street</li>
-                                    <li>Suite 300 NY, NY 80202</li>
+                                    <li>Noida, Uttar Pradesh</li>
+                                    <li>Sector 62, Green Boulevard,</li>
+                                    <li>5th Floor, TOWER-C</li>
                                 </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Phone</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
@@ -54,8 +52,7 @@ const Contact = () => {
                                 </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Email</h6>
                                 <ul className="mil-list mil-dark mil-up">
-                                    <li>info@ruizarch.com</li>
-                                    <li>hello@ruizarch.com</li>
+                                    <li>info@novnex.com</li>
                                 </ul>
                                 
                             </div>
@@ -67,22 +64,11 @@ const Contact = () => {
                         <div className="row">
                             <div className="col-lg-4">
                                 <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Wills Point</span>
+                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Noida, UP</span>
                                     <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
                                 </div>
                             </div>
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Chicago</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Harriman</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -94,7 +80,7 @@ const Contact = () => {
         <div className="mil-map-frame mil-up">
             <div className="mil-map">
                 <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1396.5769090312324!2d-73.6519672!3d45.5673453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f8abc30e0ff%3A0xfc6d9cbb49022e9c!2sManoir%20Saint-Joseph!5e0!3m2!1sen!2sua!4v1685485811069!5m2!1sen!2sua" 
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.918442806746!2d77.3672554!3d28.6228797!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce55b2eaaaaab%3A0xf888ab3b07916930!2sNOVNEX%20CORPORATION%20PRIVATE%20LIMITED!5e0!3m2!1sen!2sin!4v1713162540450!5m2!1sen!2sin" 
                     style={{"border": "0"}} 
                     allowFullScreen 
                     loading="lazy" 
