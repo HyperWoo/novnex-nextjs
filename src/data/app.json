@@ -20,58 +20,54 @@
                 "link": "/",
                 "children": [
                     {
-                        "label": "Homepage 1",
+                        "label": "Homepage",
                         "link": "/"
                     },
                     {
-                        "label": "Homepage 2",
-                        "link": "/home-2"
-                    },
-                    {
-                        "label": "Homepage 3",
-                        "link": "/home-3"
+                        "label": "About Us",
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Services",
-                "link": "/services",
+                "link": "/#",
                 "children": [
                     {
                         "label": "Services List",
-                        "link": "/services"
+                        "link": "/#"
                     },
                     {
                         "label": "Single Service",
-                        "link": "/services/service-1"
+                        "link": "/#"
                     }
                 ]
             },
             {
                 "label": "Projects",
-                "link": "/projects",
+                "link": "/#",
                 "children": [
                     {
                         "label": "Projects Grid",
-                        "link": "/projects"
+                        "link": "/#"
                     },
                     {
                         "label": "Single Project",
-                        "link": "/projects/project-1"
+                        "link": "/#"
                     }
                 ]
             },
             {
                 "label": "Blog",
-                "link": "/blog",
+                "link": "/#",
                 "children": [
                     {
                         "label": "Blog list",
-                        "link": "/blog"
+                        "link": "/#"
                     },
                     {
                         "label": "Publication",
-                        "link": "/blog/the-infrastructure-that-powers-the-world"
+                        "link": "/#"
                     }
                 ]
             },
@@ -117,19 +113,19 @@
         "menu": [
             {
                 "label": "About",
-                "link": "/about"
+                "link": "/#"
             },
             {
                 "label": "Services",
-                "link": "/services"
+                "link": "/#"
             },
             {
                 "label": "Projects",
-                "link": "/projects"
+                "link": "/#"
             },
             {
                 "label": "Blog",
-                "link": "/blog"
+                "link": "/#"
             },
             {
                 "label": "Contact",
@@ -158,15 +154,15 @@
     "projects": {
         "categories": [
             {
-                "name": "Architecture",
+                "name": "App Development",
                 "slug": "architecture"
             },
             {
-                "name": "Interior",
+                "name": "DevOps",
                 "slug": "interior"
             },
             {
-                "name": "Decor",
+                "name": "Mixed Reality",
                 "slug": "decor"
             }
         ]
